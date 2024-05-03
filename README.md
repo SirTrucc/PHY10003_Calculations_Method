@@ -1,2 +1,2 @@
 # PHY10003_Calculations_Method
-Calculations Method (Matlab, C) - PHY10003
+Vincent Sterling (23130253) - Calculations Method (Matlab, C) - PHY10003
